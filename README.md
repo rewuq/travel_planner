@@ -18,7 +18,7 @@ REST API for managing travel projects and places from the [Art Institute of Chic
 
 ```bash
 git clone https://github.com/rewuq/travel_planner.git
-cd travel-planner
+cd travel_planner
 ```
 
 ### 2. Create and activate virtual environment
